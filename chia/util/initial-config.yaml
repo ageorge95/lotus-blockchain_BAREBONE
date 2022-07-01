@@ -81,7 +81,7 @@ network_overrides: &network_overrides
   config:
     mainnet:
       address_prefix: "lch"
-        default_full_node_port: 5980
+      default_full_node_port: 5980
     testnet0:
       address_prefix: "txch"
       default_full_node_port: 58444
